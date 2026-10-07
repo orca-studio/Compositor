@@ -1,15 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Compositor</title>
     <item>
-      <title>Version 1.4.5</title>
-      <pubDate>Tue, 29 Sep 2026 21:42:57 +0000</pubDate>
-      <sparkle:version>40</sparkle:version>
-      <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+      <title>Version 0.1.0</title>
+      <pubDate>Wed, 07 Oct 2026 01:31:46 +0000</pubDate>
+      <sparkle:version>41</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-      <link>https://github.com/robbietilton/Compositor/releases/tag/v1.4.5</link>
-      <enclosure url="https://github.com/robbietilton/Compositor/releases/download/v1.4.5/Compositor.dmg" sparkle:edSignature="hi5DnGPronFXpzPxqM5U0XyucShkw8CBlxH0vX/gDv7Oxk5u/vmAm6fTgAxIIVlfpFXsMQpoqh5IW0IaJAe0Bg==" length="6750067" type="application/octet-stream"/>
+      <link>https://github.com/orca-studio/Compositor/releases/tag/v0.1.0</link>
+      <description>Compositor 0.1.0
+
+Source: https://github.com/orca-studio/Compositor-dev/tree/v0.1.0
+
+Source commit: `603bc5b98c9c25372f1cd8a2054b3175b3277685`
+Build: 41
+</description>
+      <enclosure url="https://github.com/orca-studio/Compositor/releases/download/v0.1.0/Compositor-0.1.0.dmg" sparkle:edSignature="LTdXltsJvGIQPp/36cyU9FBQmtMIGxyQKuwENF7kQKOD3lA+7hGrIogWM7zTCKVU4fHgU/qaPo4E9iSvkiL8Dg==" length="7246543" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
